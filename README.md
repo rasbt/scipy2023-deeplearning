@@ -2,7 +2,11 @@
 
 ## Modern Deep Learning with PyTorch and Lightning
 
+At [SciPy](https://www.scipy2023.scipy.org) in Austin, Texas
 
+**Mon 10 July 2023, 1:30–5:30 pm (EST, Chicago, local time), Classroom 202**
+
+- Please also check the official [Tutorial Schedule](https://cfp.scipy.org/2023/talk/8BZN3E/) for updates.
 
 **Abstract**
 
