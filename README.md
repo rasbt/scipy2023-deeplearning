@@ -25,3 +25,27 @@ The workshop material will be posted on the weekend before the event. To prepare
 Looking forward to seeing you there!
 
 PS: If you have any questions, please feel free to reach out via the [Discussion page](https://github.com/rasbt/scipy2023-deeplearning/discussions) here on GitHub.
+
+
+
+
+# Schedule and Slides
+
+1. Introduction to Deep Learning (1:30 - 2:00 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/01_intro-to-deeplearning.pdf)
+2. Understanding the PyTorch API (2:00 - 2:30 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/02_pytorch-api.pdf)
+3. Training Deep Neural Networks (2:30 - 3:00 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/03_multilayer-neural-nets.pdf)
+
+**10 Min Break**
+
+4. Accelerating PyTorch Model Training (3:10 - 3:45 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/04_accelerating-pytorch.pdf)
+5. Organizing PyTorch Code (3:45 - 4:15 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/05_organizing-pytorch-code.pdf)
+6. More Tips and Techniques (4:15 - 4:45 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/06_advanced-techniques.pdf)
+
+**10 Min Break**
+
+7. Finetuning LLMs (4:55 - 5:25 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/07_finetuning-llms.pd)
+8. Wrap Up & Questions (5:25 - 5:30 pm) [Slides](https://sebastianraschka.com/pdf/scipy2023/08_conclusion.pdf)
+
+
+
+
