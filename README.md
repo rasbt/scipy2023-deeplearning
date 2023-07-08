@@ -43,7 +43,7 @@ PS: If you have any questions, please feel free to reach out via the [Discussion
 
 **10 Min Break**
 
-7. Finetuning LLMs (4:55 - 5:25 pm) [[Slides](https://sebastianraschka.com/pdf/scipy2023/07_finetuning-llms.pd)]
+7. Finetuning LLMs (4:55 - 5:25 pm) [[Slides](https://sebastianraschka.com/pdf/scipy2023/07_finetuning-llms.pdf)]
 8. Wrap Up & Questions (5:25 - 5:30 pm) [[Slides](https://sebastianraschka.com/pdf/scipy2023/08_conclusion.pdf)]
 
 
