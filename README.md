@@ -1,6 +1,6 @@
 # SciPy 2023 Workshop
 
-## Modern Deep Learning with PyTorch and Lightning
+## Modern Deep Learning with PyTorch
 
 At [SciPy](https://www.scipy2023.scipy.org) in Austin, Texas
 
