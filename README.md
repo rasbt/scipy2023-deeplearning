@@ -18,7 +18,7 @@ We will kick off this tutorial with an introduction to deep learning and highlig
 
 The workshop material will be posted on the weekend before the event. To prepare for the workshop, there are only 3 small action items
 
-1. (Optional) You mean find the **Python Setup Guide** ([./00-1_python-setup-guide](./00-1_python-setup-guide)) helpful, which mainly describes how I set up Python on my computer(s).
+1. (Optional) You may find the **Python Setup Guide** ([./00-1_python-setup-guide](./00-1_python-setup-guide)) helpful, which mainly describes how I set up Python on my computer(s).
 2. Please go through **Python Library Installation** ([./00-2_python-libraries-for-workshop](./00-2_python-libraries-for-workshop)) guide to ensure you have all the required libraries installed prior to the workshop.
 3. I recommend downloading this repository before the event so you can access the materials offline in case of a slow internet connection during the workshop.
 
