@@ -28,6 +28,17 @@ where `Desktop/` is the folder where the Miniforge installer was downloaded to. 
 
 Next, step through the download instructions, confirming with "Enter".
 
+On the last step, when it asks
+
+```bash
+Transaction finished
+installation finished.
+Do you wish the installer to initialize Miniforge3
+by running conda init? [yes|no]
+```
+
+answer with `yes`.
+
 ## 2. Create a new virtual environment
 
 After the installation was successfully completed, I recommend creating a new virtual environment called `dl-fundamentals`, which you can do by executing
